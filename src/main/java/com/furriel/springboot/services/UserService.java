@@ -1,6 +1,6 @@
 package com.furriel.springboot.services;
 
-import com.furriel.springboot.entity.User;
+import com.furriel.springboot.entities.User;
 import com.furriel.springboot.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

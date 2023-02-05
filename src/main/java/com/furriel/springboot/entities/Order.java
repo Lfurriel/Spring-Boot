@@ -1,7 +1,7 @@
-package com.furriel.springboot.entity;
+package com.furriel.springboot.entities;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.furriel.springboot.entity.enums.OrderStatus;
+import com.furriel.springboot.entities.enums.OrderStatus;
 import jakarta.persistence.*;
 
 import java.io.Serializable;

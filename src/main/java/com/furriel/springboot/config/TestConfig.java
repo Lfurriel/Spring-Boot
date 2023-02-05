@@ -1,15 +1,14 @@
 package com.furriel.springboot.config;
 
-import com.furriel.springboot.entity.Order;
-import com.furriel.springboot.entity.User;
-import com.furriel.springboot.entity.enums.OrderStatus;
+import com.furriel.springboot.entities.Order;
+import com.furriel.springboot.entities.User;
+import com.furriel.springboot.entities.enums.OrderStatus;
 import com.furriel.springboot.repositories.OrderRepository;
 import com.furriel.springboot.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
-import org.springframework.core.env.Environment;
 
 import java.time.Instant;
 import java.util.Arrays;

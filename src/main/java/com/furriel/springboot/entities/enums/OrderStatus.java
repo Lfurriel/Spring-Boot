@@ -1,4 +1,4 @@
-package com.furriel.springboot.entity.enums;
+package com.furriel.springboot.entities.enums;
 
 public enum OrderStatus {
     WAITING_PAYMENT (1),

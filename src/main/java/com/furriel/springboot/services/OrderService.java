@@ -1,8 +1,7 @@
 package com.furriel.springboot.services;
 
-import com.furriel.springboot.entity.Order;
+import com.furriel.springboot.entities.Order;
 import com.furriel.springboot.repositories.OrderRepository;
-import com.furriel.springboot.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

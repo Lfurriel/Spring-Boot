@@ -1,6 +1,6 @@
 package com.furriel.springboot.resources;
 
-import com.furriel.springboot.entity.Order;
+import com.furriel.springboot.entities.Order;
 import com.furriel.springboot.services.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

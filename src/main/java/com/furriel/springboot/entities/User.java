@@ -1,4 +1,4 @@
-package com.furriel.springboot.entity;
+package com.furriel.springboot.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
